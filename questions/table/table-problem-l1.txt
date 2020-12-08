@@ -1,0 +1,4 @@
+problem 1 :
+
+Create a new table which consists of three columns and four rows.
+The first row should be a heading.

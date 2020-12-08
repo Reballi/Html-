@@ -1,0 +1,3 @@
+Problem 1:
+
+Insert an image in the page where image loads from the same folder path.

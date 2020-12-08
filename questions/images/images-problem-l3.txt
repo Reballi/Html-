@@ -1,0 +1,3 @@
+Problem 3:
+
+Insert an image in the web page.Make image as link to navigate to other web page and align the image to the right side of the page.

@@ -1,0 +1,3 @@
+Problem -2 
+
+Create a table using the column span with three columns and two rows 

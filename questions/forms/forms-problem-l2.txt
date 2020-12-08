@@ -1,0 +1,7 @@
+Problem 2:
+
+Insert the following inputs in the web page
+
+1. radio buttons
+2. checkboxes
+3. text area 

@@ -1,0 +1,7 @@
+Problem 3:
+
+change the background color of the document.Add two headings and paragraphs.
+
+Headings to be center of the page and change the color of headings.
+
+change font size and font family of the of paragraph.

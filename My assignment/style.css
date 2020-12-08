@@ -1,0 +1,123 @@
+*{
+    padding:0%;
+    margin:0%;
+}
+.Nav{
+    padding: 0 0 0 2%;
+    background-color: beige;
+    /* position: fixed; */
+}
+.menu{
+    display: inline;
+    display: flex;
+    float: right;
+    text-decoration: none;
+    padding-right: 41%;
+}
+a{
+    text-decoration: none;
+    padding-right: 5%;
+    padding-top: 6%;
+    color: mediumvioletred;
+    font-weight: 600;
+}
+a:hover{
+    
+    color: navy;
+}
+marquee{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color: rgb(79, 247, 1);
+}
+b{
+    color:red;
+}
+.whoamI{
+    background-color: rgb(164, 212, 240);
+    color: rgb(17, 16, 15);
+    margin:1% 50% 0 5%;
+    border-style: solid;
+    border-radius: 5px;
+    padding-bottom: 1%;
+}
+.Contact{
+    background-color: rgb(164, 212, 240);
+    border-radius: 5px;
+    color: rgb(17, 16, 15);
+    margin: -13% 6% 0 51%;
+    border-style: solid;
+
+}
+.talk{
+    list-style: none;
+    margin: 2% 0 0 44%;
+}
+.talk li{
+    color: rgb(17, 16, 15);
+
+}
+.talk li:hover{
+    color: rgb(253, 5, 5);
+
+}
+.assignment{
+    padding: 2% 0 0 14%;
+}
+
+.goal{
+    padding: 1% 0 0 27%;
+
+}
+.goals{
+    background-color: rgb(79, 247, 1);
+}
+.container{
+    border-style: solid;
+    /* padding-bottom: 25%; */
+    width:25%;
+    margin:0 38%;
+
+}
+.img{
+float: right;
+border-style: solid;
+border-color: black;
+margin: 5% 5% 4% 0 ;
+height: 25%;
+border-radius: 5px;
+}
+
+table{
+    width:100%;
+}
+table, th, td {
+    border: 1px solid black;
+  }
+  td{
+      text-align: center;
+  }
+  .justify{
+    text-align: justify;
+    margin: 0 0 0 17%;
+  }
+  .con{
+      padding:5%;
+      border-style: solid black;
+      
+  }
+  #first{
+      color:rgb(99, 6, 250);
+      font-weight: 600;
+  }
+  .list{
+      color:red;
+  }
+  #second{
+      background-color: salmon;
+      padding-bottom: 35%;
+      padding-left:5%;
+      border: 5px solid black ;
+      margin:1% 30% 0 32%;
+      border-radius: 5px;
+  }

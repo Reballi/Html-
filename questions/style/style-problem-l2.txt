@@ -1,0 +1,3 @@
+Problem 2:
+
+Create a heading and paragraph,Heading should be to the center of page.Change the color of heading and paragraph.

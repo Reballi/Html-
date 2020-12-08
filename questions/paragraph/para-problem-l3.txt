@@ -1,0 +1,7 @@
+problem 3 :
+
+Insert a simple paragraph
+
+Insert a paragraph with line breaks in the web page.
+
+Insert a text preserves both spaces and line breaks. The text will be displayed exactly as written.

@@ -1,0 +1,5 @@
+Problem 2 :
+
+Use Id's to style the html element
+
+Use classes to style the elements 

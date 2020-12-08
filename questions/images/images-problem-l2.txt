@@ -1,0 +1,3 @@
+Problem 2:
+
+Insert an image in the web page.define a border to it using attribute.

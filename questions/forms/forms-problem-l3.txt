@@ -1,0 +1,4 @@
+Problem 3:
+
+Create a registration page, it should contain the following details
+first name, last name, gender, description , profile pic upload option, checkbox to accept conditions and a button to submit the form.

@@ -1,0 +1,7 @@
+Problem 3 :
+
+Use Id's to style the html element
+
+Use classes to style the elements 
+
+and Use block element to create a division in the web page and apply classes to the block element.

@@ -1,0 +1,3 @@
+Problem 1:
+
+Insert an image in the web page.define height and width of the image.
